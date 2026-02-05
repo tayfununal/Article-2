@@ -626,7 +626,7 @@ code {
   
   .more-works-container {
     position: fixed; /* Sabit kalması için */
-    top: 1rem;       /* Üstten boşluk */
+    top: 2rem;       /* Üstten boşluk */
     right: 1rem;     /* Sağdan boşluk */
     bottom: auto;    /* Eski bottom değerini iptal eder */
     z-index: 1000;
@@ -671,7 +671,7 @@ code {
   
   .more-works-container {
     position: fixed; /* Sabit kalması için */
-    top: 1rem;       /* Üstten boşluk */
+    top: 2rem;       /* Üstten boşluk */
     right: 1rem;     /* Sağdan boşluk */
     bottom: auto;    /* Eski bottom değerini iptal eder */
     z-index: 1000;
